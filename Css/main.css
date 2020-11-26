@@ -1,0 +1,339 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* End of the Reset :) */
+
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,900;1,300;1,400;1,700&family=Unica+One&Arapey:ital@0;1&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  font-weight: unset;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  width: 100vw;
+  font-size: 16px;
+  font-family: "Barlow", sans-serif;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.intro {
+  position: -webkit-sticky;
+  position: sticky;
+  background-color: white;
+  color: white;
+  top: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.intro svg {
+  background-color: white;
+}
+
+.header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 8rem;
+  background-color: #00ADBB;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  z-index: 2;
+}
+
+.navbar {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 1rem;
+  height: 5rem;
+  margin: 1rem;
+  z-index: 2;
+}
+
+.navbar img {
+  max-width: 100%;
+  min-width: 33%;
+}
+
+
+main, .section {
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  position: relative;
+  z-index: 1;
+}
+
+#motto {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10rem 4rem 0 4rem;
+  background-color: #00ADBB;
+  width: 100vw;
+}
+
+.motto-typo {
+  max-width: 90vw;
+  padding-bottom: 2rem;
+}
+
+#about {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 2rem;
+  font-weight: 300;
+  line-height: 1.5rem;
+  width: 100vw;
+  background-color: #F0553F;
+  color: #FFFFFF;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto;
+}
+
+#about h1 {
+  max-width: 80vw;
+  font-family: 'Unica One';
+  font-weight: 300;
+  text-align: center;
+  color: #FFFFFF;
+  padding-bottom: 3rem;
+}
+
+#about p {
+  max-width: 66%;
+}
+
+#about .text-container p {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#about p:nth-child(2) {
+  margin: auto;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  font-weight: 300;
+  text-align: right;
+}
+
+#about p span {
+  margin: auto;
+  line-height: 2rem;
+  font-family: 'Unica One';
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: right;
+}
+
+div#about_head {
+  padding-top: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  width: 100vw;
+  overflow: hidden;
+}
+
+#about_head img {
+  width: 100%;
+  bottom: 0;
+}
+
+#logos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  z-index: 3;
+  margin-top: -20%;
+}
+
+#logos img {
+  width: 100%;
+}
+
+#works {
+  width: 100wv;
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #FFFFFF;
+  z-index: 2;
+  margin-top: -1%;
+}
+
+#works h1 {
+  margin: 0 auto;
+  max-width: 80vw;
+  padding-top: 4rem;
+  font-family: 'Unica One';
+  font-weight: 300;
+  text-align: center;
+}
+
+.work-album {
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.work-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 0;
+      -ms-flex: none;
+          flex: none;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  padding-left: .15rem;
+  padding-right: .15rem;
+  padding-bottom: .15rem;
+  width: 50%;
+  height: 50%;
+}
+
+.work-container img {
+  width: 100%;
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 3.25rem;
+  
+}
+
+p {
+  font-size: 1.75rem;
+  line-height: 2.5rem;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    max-height: 12rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+}
