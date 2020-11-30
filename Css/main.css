@@ -134,6 +134,7 @@ body {
 .navbar img {
   max-width: 100%;
   min-width: 33%;
+  padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
