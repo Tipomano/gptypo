@@ -76,6 +76,26 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+.loader {
+  display: flex;
+  flex-direction: column;
+  
+  z-index: 20;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2vh;
+  font-family: 'Unica One';
+  font-size: 1rem;
+  color: #F0553F;
+  margin: auto;
+  animation: loadIn 4s forwards;
+} 
+
+@keyframes loadIn {
+  0% {opacity: 0;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
+}
 
 .intro {
   position: -webkit-sticky;
