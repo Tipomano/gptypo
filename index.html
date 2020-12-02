@@ -4,22 +4,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <link rel="stylesheet" href="Css/main.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+
+  <link rel="stylesheet" href="./CSS/main.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
   <script src="./JS/intro.js"></script>
-  
+
+
+
 </head>
 
 
-<body onload="init();" >
+<body onload="init();">
   <div class="loader">
     <p>...egy pillanat türelmet kérek, épp töltődöm...</p>
   </div>
   <!--Intro anim start-->
   <div id="Scene_1" class="intro">
-    <svg viewBox="240 140 640 480"
-      width="100%" height="100%">
+    <svg viewBox="240 140 640 480" width="100%" height="100%">
       <g id="Layer_1">
         <g id="Head_SVG_2" transform="matrix(2 0 0 2 -1.4913 -214.7417)" data-transform="274.7292 79.2207 2 2 0 0 0"
           data-pivot="276.2205 293.9625">
@@ -79,178 +80,188 @@
     </svg>
   </div>
   <!--Intro anim end-->
- 
+
   <header class="header">
     <nav class="navbar row">
       <img src="./IMG/SVG_Elem/navbar_logo_teljes.svg" alt="">
     </nav>
   </header>
-  
-  <main>
-    <div class="main">
+
+  <main class="main">
+    
       <section id="motto" class="section">
         <div>
-            <object class='motto-typo' data="./IMG/SVG_Elem/motto.svg" type="image/svg+xml"></object>
+          <object class='motto-typo' data="./IMG/SVG_Elem/motto.svg" type="image/svg+xml"></object>
         </div>
       </section>
       <section id="about" class="section">
-        <h1>...azaz néhány másodpercben magamról:</h1>
+        <h1>...azaz röviden magamról:</h1>
         <div class="text-container">
-        <p>Négy X-el, két gyereküléssel, 
-          15 évnyi grafikai tapasztalattal,  
-          sok rövidítéssel (ID, PS, AI, HTML5, CSS, JS),
-          stabil háttérrel (tervezés, prepress),
-          komoly tanulmányokkal (MUOSZ, MOME Tipo),
-          pár kalandos hobbival  
-          és néhány ex-el a hátam mögött...</p>
-        <p>...elszántan keresem az <span>Igazit<span>...</p>
-    </div>
+          <p>Négy X-el, két gyereküléssel,
+            15 évnyi grafikai tapasztalattal,
+            sok rövidítéssel (ID, PS, AI, HTML5, CSS, JS),
+            stabil háttérrel (tervezés, prepress),
+            komolytalanul komoly tanulmányokkal (MUOSZ, MOME Tipo),
+            pár kalandos hobbival
+            és néhány ex-el a hátam mögött, minden nap egy remek lehetőség némi</p>
+          <p><span id="big">mókára</span> <span id="at">&</span> <br> <span id="big">munkára</span></p>
+        </div>
         <div id="about_head">
           <img id="head_img" src="./IMG/SVG_Elem/head_custom_1.svg" alt="">
         </div>
       </section>
       <section id="logos" class="section">
-        <img src="./IMG/SVG_Elem/wave_div_2.svg" alt="">        
-        </section>
-        <section id="works" class="section">
-            <h1>Korábbi munkáim</h1>
-            <div class="work-album">
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (3).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (3a).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (4).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (5).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (6).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (7).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (8).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (9).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (10).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (11).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (12).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (13).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (14).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (15).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (16).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (17).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (18).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (19).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (20).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (21).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (22).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (23).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (24).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (25).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (26).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (27).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (28).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (29).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (30).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (31).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (32).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (33).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (34).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (35).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (36).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (37).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (38).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (39).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (40).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (42).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (43).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (44).jpg" alt="">
-                </div>
-                <div class="work-container">
-                    <img src="./IMG/Works/TGPO (1).jpg" alt="">
-                </div>
-                <div class="work-container">
+        <img src="./IMG/SVG_Elem/wave_div_2.svg" alt="">
+      </section>
+      <section id="works" class="section">
+        <h1>Korábbi munkáim</h1>
+        <div class="work-album">
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (3).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (3a).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (4).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (5).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (6).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (7).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (8).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (9).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (10).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (11).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (12).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (13).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (14).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (15).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (16).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (17).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (18).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (19).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (20).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (21).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (22).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (23).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (24).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (25).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (26).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (27).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (28).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (29).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (30).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (31).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (32).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (33).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (34).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (35).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (36).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (37).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (38).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (39).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (40).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (42).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (43).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (44).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <img src="./IMG/Works/TGPO (1).jpg" alt="">
+          </div>
+          <div class="work-container">
+            <div id="contact-div">
+              <p id="last-words">...és még sokan mások. <br><br> Remélem,
+                hamarosan az Ön munkáját is büszkén bemutathatom.
+                Keressen bizalommal!
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
 
-                </div>
-            </div>  
-        </section>
-    </div>
-  </main>
+    <footer class="footer">
+      <h2>Gajdács Péter</h2>
+      <p>+36 30 263 6464 <br>
+      mesquite.typo@gmail.com
+      </p>
+    </footer>
 
 </body>
 
