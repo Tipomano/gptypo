@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  width="100%"
+  height="100%"
+  viewBox="0 0 1444.344 1076.621"
+  enable-background="new 0 0 1444.344 1076.621"
+  xml:space="preserve"
+  style=""
+>
+  <g>
+    <path
+      id="Alap"
+      fill="none"
+      stroke="#1B171C"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-miterlimit="10"
+      d="
+		M6.013,529.957V65.172h1433.726v788.342H6.013V529.957"
+      class="HnktsPAb_0"
+    ></path>
+    <path
+      fill="none"
+      stroke="#1B171C"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-miterlimit="10"
+      d="
+		M722.265,852.924"
+      class="HnktsPAb_1"
+    ></path>
+    <path
+      fill="none"
+      stroke="#1B171C"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-miterlimit="10"
+      d="
+		M1439.125,62.789v-6.124c-0.003-29.036-23.54-52.571-52.576-52.573L57.973,4.098c-29.034,0-52.57,23.536-52.57,52.568v6.124"
+      class="HnktsPAb_2"
+    ></path>
+    <path
+      fill="none"
+      stroke="#1B171C"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-miterlimit="10"
+      d="
+		M5.403,852.945v35.625c0.001,29.038,23.538,52.573,52.574,52.575l1328.58-0.004c29.032,0,52.569-23.537,52.569-52.571v-36.849"
+      class="HnktsPAb_3"
+    ></path>
+    <g>
+      <g>
+        <path
+          fill="none"
+          stroke="#1B171C"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          d="
+				M570.981,1041.237c11.513-22.191,23.027-55.19,23.027-98.426"
+          class="HnktsPAb_4"
+        ></path>
+        <path
+          fill="none"
+          stroke="#1B171C"
+          stroke-width="5"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          d="
+				M874.033,1042.175c-11.672-22.189-23.514-55.513-23.514-99.362"
+          class="HnktsPAb_5"
+        ></path>
+      </g>
+      <path
+        fill="none"
+        stroke="#1B171C"
+        stroke-width="5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-miterlimit="10"
+        d="
+			M492.281,1042.22h459.965v31.849H492.281V1042.22z"
+        class="HnktsPAb_6"
+      ></path>
+    </g>
+    <path
+      fill="none"
+      stroke="#1B171C"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-miterlimit="10"
+      d="
+		M765.139,892.601c0-6.259-5.075-11.331-11.333-11.331h-63.083c-6.261,0-11.333,5.072-11.333,11.331l0,0
+		c0,6.257,5.076,11.331,11.333,11.331h63.083C760.064,903.933,765.139,898.86,765.139,892.601L765.139,892.601z"
+      class="HnktsPAb_7"
+    ></path>
+  </g>
+  <style data-made-with="vivus-instant">
+    /*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+    .HnktsPAb_0 {
+      stroke-dasharray: 4445 4447;
+      stroke-dashoffset: 4446;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_1 {
+      stroke-dasharray: 0 2;
+      stroke-dashoffset: 1;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_2 {
+      stroke-dasharray: 1507 1509;
+      stroke-dashoffset: 1508;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_3 {
+      stroke-dasharray: 1567 1569;
+      stroke-dashoffset: 1568;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_4 {
+      stroke-dasharray: 103 105;
+      stroke-dashoffset: 104;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_5 {
+      stroke-dasharray: 104 106;
+      stroke-dashoffset: 105;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_6 {
+      stroke-dasharray: 984 986;
+      stroke-dashoffset: 985;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    .HnktsPAb_7 {
+      stroke-dasharray: 198 200;
+      stroke-dashoffset: 199;
+      -webkit-animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+      animation: HnktsPAb_draw 2400ms ease-out 4800ms forwards;
+    }
+
+    @-webkit-keyframes HnktsPAb_draw {
+      50% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes HnktsPAb_draw {
+      50% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @-webkit-keyframes HnktsPAb_fade {
+      0% {
+        stroke-opacity: 1;
+      }
+
+      93.93939393939394% {
+        stroke-opacity: 1;
+      }
+
+      100% {
+        stroke-opacity: 0;
+      }
+    }
+
+    @keyframes HnktsPAb_fade {
+      0% {
+        stroke-opacity: 1;
+      }
+
+      93.93939393939394% {
+        stroke-opacity: 1;
+      }
+
+      100% {
+        stroke-opacity: 0;
+      }
+    }
+  </style>
+</svg>

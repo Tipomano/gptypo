@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  width="100%"
+  height="100%"
+  viewBox="-2137.262 -1495.723 716.386 425.89"
+  enable-background="new -2137.262 -1495.723 716.386 425.89"
+  xml:space="preserve"
+  style=""
+>
+  <g id="me">
+    <g id="eyes">
+      <path
+        id="Szem2_8_"
+        d="M-1807.709-1379.983c3.915,0,7.085,3.176,7.085,7.088c0,3.916-3.17,7.088-7.085,7.088
+			c-3.916,0-7.087-3.172-7.087-7.088C-1814.797-1376.806-1811.625-1379.983-1807.709-1379.983z"
+        class="eyes_me"
+      ></path>
+      <path
+        id="Szem1_8_"
+        d="M-1749.542-1379.977c3.916,0,7.087,3.175,7.087,7.085c0,3.915-3.171,7.085-7.087,7.085
+			c-3.914,0-7.085-3.17-7.085-7.085C-1756.627-1376.802-1753.456-1379.977-1749.542-1379.977z"
+        class="eyes_me"
+      ></path>
+    </g>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-1867.094-1412.967l56.654,19.409
+		c3.117,1.19,7.535,1.935,11.068,1.935c15.536,0,28.127-12.592,28.127-28.125c0-15.538-12.591-28.128-28.127-28.128
+		c-26.846,0-57.44,32.554-57.44,76.638c0,45.562,36.932,82.492,82.493,82.492c21.021,0,40.206-8.313,54.776-21.263"
+      class="MgjjzeoN_2"
+    ></path>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-1829.108-1399.952
+		c10.549-18.569,31.18-32.625,54.069-32.623c33.898,0,61.379,27.479,61.379,61.377c0,33.899-27.48,61.38-61.379,61.38
+		c-15.482,0-29.628-5.732-40.423-15.194"
+      class="MgjjzeoN_3"
+    ></path>
+  </g>
+  <path
+    fill="none"
+    stroke="#000000"
+    stroke-width="10"
+    stroke-miterlimit="10"
+    d="M-1774.528-1288.103
+	c-70.352,0.199-127.22,57.391-127.021,127.744l-0.092,0.146c0.216,76.213,51.134,76.069,50.918-0.117
+	c-0.199-70.353-57.391-127.22-127.742-127.021c-70.352,0.199-127.22,57.391-127.021,127.744c0.215,76.18,51.771,76.034,51.557,0.474
+	c-0.081-28.67-9.626-55.104-25.671-76.344c-4.148-5.49-8.73-10.635-13.695-15.381"
+    class="MgjjzeoN_4"
+  ></path>
+  <g id="right">
+    <g id="left_x5F_eyes">
+      <path
+        id="Szem2_7_"
+        d="M-2011.941-1379.551c3.915-0.012,7.095,3.155,7.105,7.067c0.011,3.916-3.15,7.097-7.065,7.108
+			c-3.916,0.011-7.096-3.152-7.107-7.068C-2019.02-1376.356-2015.857-1379.54-2011.941-1379.551z"
+        class="eyes"
+      ></path>
+      <path
+        id="Szem1_7_"
+        d="M-1953.773-1379.71c3.916-0.011,7.096,3.155,7.107,7.065c0.011,3.914-3.151,7.094-7.067,7.104
+			c-3.914,0.011-7.094-3.151-7.105-7.064C-1960.85-1376.515-1957.688-1379.698-1953.773-1379.71z"
+        class="eyes"
+      ></path>
+    </g>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-2071.418-1412.368l56.709,19.249
+		c3.121,1.182,7.541,1.915,11.074,1.904c15.536-0.044,28.091-12.672,28.047-28.206c-0.044-15.538-12.671-28.092-28.207-28.048
+		c-26.845,0.076-57.348,32.716-57.224,76.8c0.129,45.561,37.166,82.387,82.726,82.258c21.021-0.059,40.182-8.427,54.716-21.417"
+      class="MgjjzeoN_7"
+    ></path>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-2033.396-1399.46
+		c10.497-18.6,31.087-32.714,53.977-32.776c33.898-0.096,61.456,27.305,61.552,61.203c0.096,33.898-27.307,61.457-61.205,61.553
+		c-15.482,0.043-29.644-5.648-40.466-15.08"
+      class="MgjjzeoN_8"
+    ></path>
+  </g>
+  <path
+    fill="none"
+    stroke="#000000"
+    stroke-width="10"
+    stroke-miterlimit="10"
+    d="M-1774.528-1288.103
+	c70.351-0.199,127.543,56.668,127.742,127.021c0.215,76.186-50.703,76.33-50.918,0.117l0.065,2.012
+	c-0.199-70.354,56.67-127.545,127.021-127.744c70.351-0.198,127.543,56.669,127.742,127.021c0.215,76.186-50.703,76.33-50.918,0.117
+	c-0.101-35.738,14.526-68.087,38.164-91.295"
+    class="MgjjzeoN_9"
+  ></path>
+  <g>
+    <g id="right_x5F_eyes">
+      <path
+        id="Szem2_6_"
+        d="M-1603.799-1378.576c3.915,0,7.085,3.176,7.085,7.088c0,3.916-3.17,7.088-7.085,7.088
+			c-3.916,0-7.087-3.172-7.087-7.088C-1610.887-1375.401-1607.715-1378.576-1603.799-1378.576z"
+        class="eyes"
+      ></path>
+      <path
+        id="Szem1_6_"
+        d="M-1545.631-1378.571c3.916,0,7.087,3.175,7.087,7.085c0,3.914-3.171,7.085-7.087,7.085
+			c-3.914,0-7.085-3.171-7.085-7.085C-1552.717-1375.396-1549.545-1378.571-1545.631-1378.571z"
+        class="eyes"
+      ></path>
+    </g>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-1663.184-1411.561l56.654,19.409
+		c3.117,1.19,7.535,1.936,11.068,1.936c15.536,0,28.127-12.593,28.127-28.126c0-15.538-12.591-28.128-28.127-28.128
+		c-26.846,0-57.44,32.554-57.44,76.638c0,45.562,36.932,82.492,82.493,82.492c21.021,0,40.206-8.313,54.776-21.263"
+      class="MgjjzeoN_12"
+    ></path>
+    <path
+      fill="none"
+      stroke="#000000"
+      stroke-width="10"
+      stroke-miterlimit="10"
+      d="M-1625.198-1398.546
+		c10.549-18.569,31.18-32.626,54.069-32.623c33.898,0,61.379,27.479,61.379,61.377s-27.48,61.38-61.379,61.38
+		c-15.482,0-29.628-5.732-40.423-15.194"
+      class="MgjjzeoN_13"
+    ></path>
+  </g>
+  <style data-made-with="vivus-instant">
+    /*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.MgjjzeoN_0 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_1 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_2 {
+      stroke-dasharray: 455 457;
+      stroke-dashoffset: 456;
+      -webkit-animation: MgjjzeoN_draw_centerHead 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_centerHead 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_3 {
+      stroke-dasharray: 304 306;
+      stroke-dashoffset: 305;
+      -webkit-animation: MgjjzeoN_draw_centerHead 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_centerHead 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_4 {
+      stroke-dasharray: 974 976;
+      stroke-dashoffset: 975;
+      -webkit-animation: MgjjzeoN_draw_delay 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_delay 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_9 {
+      stroke-dasharray: 975 977;
+      stroke-dashoffset: 976;
+      -webkit-animation: MgjjzeoN_draw_delay 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_delay 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_5 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_6 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_7 {
+      stroke-dasharray: 455 457;
+      stroke-dashoffset: 456;
+      -webkit-animation: MgjjzeoN_draw_head 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_head 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_8 {
+      stroke-dasharray: 304 306;
+      stroke-dashoffset: 305;
+      -webkit-animation: MgjjzeoN_draw_head_small 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_head_small 4000ms ease-in-out 0ms infinite;
+    }
+
+
+
+    .MgjjzeoN_10 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_11 {
+      stroke-dasharray: 45 47;
+      stroke-dashoffset: 46;
+      -webkit-animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_12 {
+      stroke-dasharray: 455 457;
+      stroke-dashoffset: 456;
+      -webkit-animation: MgjjzeoN_draw_head 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_head 4000ms ease-in-out 0ms infinite;
+    }
+
+    .MgjjzeoN_13 {
+      stroke-dasharray: 304 306;
+      stroke-dashoffset: 305;
+      -webkit-animation: MgjjzeoN_draw_head_small 4000ms ease-in-out 0ms infinite;
+              animation: MgjjzeoN_draw_head_small 4000ms ease-in-out 0ms infinite;
+    }
+
+    @-webkit-keyframes MgjjzeoN_draw {
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes MgjjzeoN_draw {
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+    @-webkit-keyframes MgjjzeoN_draw_delay {
+
+      40% {
+        stroke-dashoffset: 500;
+      }
+      50% {
+        stroke-dashoffset: 500;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+    @keyframes MgjjzeoN_draw_delay {
+
+      40% {
+        stroke-dashoffset: 500;
+      }
+      50% {
+        stroke-dashoffset: 500;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+
+    @-webkit-keyframes MgjjzeoN_draw_centerHead {
+
+      40% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+
+    @keyframes MgjjzeoN_draw_centerHead {
+
+      40% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @-webkit-keyframes MgjjzeoN_draw_head {
+      60% {
+        stroke-dashoffset: 456;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes MgjjzeoN_draw_head {
+      60% {
+        stroke-dashoffset: 456;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @-webkit-keyframes MgjjzeoN_draw_head_small {
+
+
+      60% {
+        stroke-dashoffset: 305;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes MgjjzeoN_draw_head_small {
+
+
+      60% {
+        stroke-dashoffset: 305;
+      }
+      80% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .eyes_me {
+      -webkit-animation: fade 4000ms ease-in-out infinite;
+              animation: fade 4000ms ease-in-out infinite;
+    }
+    .eyes {
+      -webkit-animation: fadeOther 4000ms ease-in-out infinite;
+              animation: fadeOther 4000ms ease-in-out infinite;
+    }
+
+    @-webkit-keyframes fade {
+      0% {
+        opacity: 0;
+      }
+      20% {
+        opacity: 0;
+      }
+      40% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes fade {
+      0% {
+        opacity: 0;
+      }
+      20% {
+        opacity: 0;
+      }
+      40% {
+        opacity: 1;
+      }
+    }
+
+    @-webkit-keyframes fadeOther {
+      0% {
+        opacity: 0;
+      }
+      40% {
+        opacity: 0;
+      }
+      60% {
+        opacity: 0;
+      }
+      80% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeOther {
+      0% {
+        opacity: 0;
+      }
+      40% {
+        opacity: 0;
+      }
+      60% {
+        opacity: 0;
+      }
+      80% {
+        opacity: 1;
+      }
+    }
+  </style>
+</svg>
