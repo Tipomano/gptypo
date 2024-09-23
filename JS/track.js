@@ -9,7 +9,7 @@
   };
 
   // Adatok küldése a szervernek (például /track URL-re)
-  fetch("./TRACK/track.json", {
+  fetch("/track", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -25,5 +25,4 @@
       console.error("Hálózati hiba: ", error);
     });
 })
-
 ();
