@@ -2008,9 +2008,9 @@ p {
   #intro_container,
   #anim_container,
   #footer_container {
-    -webkit-transform: scale(0.75);
-    -ms-transform: scale(0.75);
-    transform: scale(0.75);
+    -webkit-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    transform: scale(0.85);
   }
   p {
     font-size: 1.75rem;
