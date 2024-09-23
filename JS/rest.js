@@ -6,7 +6,7 @@ const app = express();
 // JSON kérés kezeléséhez
 app.use(bodyParser.json());
 
-app.post('/track', (req, res) => {
+app.post('/TRACK', (req, res) => {
   const visitData = req.body;
 
   // Naplózás fájlba

@@ -9,7 +9,7 @@
   };
 
   // Adatok küldése a szervernek (például /track URL-re)
-  fetch("/track", {
+  fetch("/TRACK", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
