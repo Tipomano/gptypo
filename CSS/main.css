@@ -1188,7 +1188,7 @@ picture {
   line-height: calc(0.25 + 1 + 0.25);
 }
 
-.work-container:hover, .work-container:focus, .work-container:active > .title_fade_box {
+.work-container:active > .title_fade_box {
   -webkit-transform: translate(0%);
       -ms-transform: translate(0%);
           transform: translate(0%);
