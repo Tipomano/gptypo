@@ -693,6 +693,23 @@ span#goto {
   z-index: 2;
 }
 
+.navbarButton {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+          align-items: center;
+  margin: auto 0;
+  background-color: transparent;
+  background: none;
+  border: transparent;
+}
+
 /*navbar menu start*/
 .topnav {
   overflow: hidden;
@@ -713,7 +730,7 @@ span#goto {
   display: flex;
 }
 
-.topnav a img {
+.topnav button img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1518,7 +1535,7 @@ p {
     margin-top: 3rem;
   }
 
-  .topnav a img {
+  .topnav button img {
     height: 6vmax;
   }
 
@@ -1830,7 +1847,7 @@ p {
     padding-bottom: 2rem;
   }
 
-  .topnav a img {
+  .topnav button img {
     height: 5vmax;
   }
 }
