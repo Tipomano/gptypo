@@ -1188,7 +1188,7 @@ picture {
   line-height: calc(0.25 + 1 + 0.25);
 }
 
-.work-container:active > .title_fade_box {
+.work-container:hover > .title_fade_box {
   -webkit-transform: translate(0%);
       -ms-transform: translate(0%);
           transform: translate(0%);
@@ -1198,7 +1198,7 @@ picture {
   transition: all 0.5s ease-in;
 }
 
-.work-container:active > .title_text_box {
+.work-container:hover > .title_text_box {
   -webkit-transform: translate(0%);
       -ms-transform: translate(0%);
           transform: translate(0%);
@@ -1207,7 +1207,7 @@ picture {
   transition: all 0.5s ease-in;
 }
 
-.work-container:active > .work_img {
+.work-container:hover > .work_img {
   -webkit-filter: grayscale(1);
           filter: grayscale(1);
   -webkit-transition: all 0.1s ease-in-out;
