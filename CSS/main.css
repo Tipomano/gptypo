@@ -101,7 +101,7 @@ body {
 #intro_container {
   top: 0;
   position: sticky;
-  width: 100%;
+  width: 95%;
   height: 100%; /* Fallback  */
   height: calc(var(--vh, 1vh) * 100);
   overflow: hidden;
@@ -1347,6 +1347,10 @@ footer article {
   width: 25%;
 }
 
+.bigger_icons {
+  scale: 1.2;
+}
+
 /* Footer */
 
 #contacts {
@@ -1391,7 +1395,7 @@ a {
 
 h1 {
   font-family: "Unica One";
-  font-size: 3rem;
+  font-size: 2rem;
   color: #FFFFFF;
 }
 
@@ -1527,6 +1531,8 @@ p {
 
 @media only screen and (max-width: 768px) {
 
+
+
   .topnav #myLinks a {
     font-size: 1rem;
   }
@@ -1539,20 +1545,6 @@ p {
     height: 6vmax;
   }
 
-  h1 {
-    font-family: "Unica One";
-    color: #FFFFFF;
-  }
-
-
-
-/*
-  .title_text_box p {
-    font-size: 1,75rem;
-    line-height: calc(0.25 + 1 + 0.25);
-    padding: 1rem;
-  }
-*/  
 }
 
 
@@ -1612,7 +1604,7 @@ p {
     line-height: 2.5rem;
   }
   footer p {
-    font-size: 2rem;
+    font-size: 1.25rem;
     line-height: 3rem;
   }
   footer h3 {
@@ -1624,7 +1616,7 @@ p {
   .svg_icons, img.icons {
     padding-bottom: 1rem;
     padding-top: 1rem;
-    width: 25%;
+    width: 40%;
   }
 
   #portfolio {
@@ -1634,6 +1626,7 @@ p {
 }
 
 @media only screen and (max-width: 480px) {
+
 
   .work-album {
     -webkit-box-orient: vertical;
@@ -1652,6 +1645,47 @@ p {
 .title_text_box p {
   font-size: 2vh;
 }
+
+  
+  .topnav #myLinks {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .topnav #myLinks a {
+    font-size: 0.75rem;
+  }
+/*
+  .title_text_box p {
+    font-size: 0.75rem;
+    padding: 0.5rem;
+  }
+*/
+  #works h3 {
+    padding-top: 2rem;
+    margin-top: 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  
+  footer p {
+    font-size: 1.25rem;
+    line-height: 2rem;
+  }
+
+  #anim_container {
+    -webkit-transform: translateY(-5%);
+        -ms-transform: translateY(-5%);
+            transform: translateY(-5%);
+  }
+
+  #diohejban {
+    padding-bottom: 3rem;
+  }
+
 
 }
 
@@ -1748,49 +1782,7 @@ p {
 
 }
 
-@media only screen and (max-width: 480px) {
-  
-    .topnav #myLinks {
-      padding-left: 2rem;
-      padding-right: 2rem;
-    }
 
-    .topnav #myLinks a {
-      font-size: 0.75rem;
-    }
-/*
-    .title_text_box p {
-      font-size: 0.75rem;
-      padding: 0.5rem;
-    }
-*/
-    #works h3 {
-      padding-top: 2rem;
-      margin-top: 2rem;
-    }
-
-    p {
-      font-size: 1rem;
-      line-height: 1.5rem;
-    }
-    
-    footer p {
-      font-size: 1.5rem;
-      line-height: 2rem;
-    }
-
-    #anim_container {
-      -webkit-transform: translateY(-5%);
-          -ms-transform: translateY(-5%);
-              transform: translateY(-5%);
-    }
-
-    #diohejban {
-      padding-bottom: 3rem;
-    }
-
-
-}
 
 @media only screen and (max-width: 320px) {
   
@@ -1815,7 +1807,7 @@ p {
     }
 
     p, footer p {
-      font-size: 1rem;
+      font-size: 0.8rem;
       line-height: 1.5rem;
     }
     
@@ -1831,12 +1823,12 @@ p {
 
 
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1024px) {
 
   h1 {
     font-family: "Unica One";
     color: #FFFFFF;
-    font-size: 4rem;
+    font-size: 3rem;
   
   }
   
